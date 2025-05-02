@@ -12,7 +12,7 @@ h1, h2, h3, h4, p {
 
 #bff-img {
     width: 400px;
-    border-radius: 50%;
+    border-radius: 0%;
     border: 6px solid #EFB0C9;
     margin-bottom: 10px;
 }
@@ -65,6 +65,7 @@ h1, h2, h3, h4, p {
 
 #gift-img-happy:hover {
     background-image: url("images/happy.gif");
+}
 
 #gift-img-happy:active {
     background-image: url("images/happy.gif");    
